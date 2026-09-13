@@ -1,0 +1,14 @@
+C:\Users\uliss\Documents\git\ProjetoCS\MeuPrimeiroAppConsole\bin\Debug\net10.0\MeuPrimeiroAppConsole.exe
+C:\Users\uliss\Documents\git\ProjetoCS\MeuPrimeiroAppConsole\bin\Debug\net10.0\MeuPrimeiroAppConsole.deps.json
+C:\Users\uliss\Documents\git\ProjetoCS\MeuPrimeiroAppConsole\bin\Debug\net10.0\MeuPrimeiroAppConsole.runtimeconfig.json
+C:\Users\uliss\Documents\git\ProjetoCS\MeuPrimeiroAppConsole\bin\Debug\net10.0\MeuPrimeiroAppConsole.dll
+C:\Users\uliss\Documents\git\ProjetoCS\MeuPrimeiroAppConsole\bin\Debug\net10.0\MeuPrimeiroAppConsole.pdb
+C:\Users\uliss\Documents\git\ProjetoCS\MeuPrimeiroAppConsole\obj\Debug\net10.0\MeuPrimeiroAppConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uliss\Documents\git\ProjetoCS\MeuPrimeiroAppConsole\obj\Debug\net10.0\MeuPrimeiroAppConsole.AssemblyInfoInputs.cache
+C:\Users\uliss\Documents\git\ProjetoCS\MeuPrimeiroAppConsole\obj\Debug\net10.0\MeuPrimeiroAppConsole.AssemblyInfo.cs
+C:\Users\uliss\Documents\git\ProjetoCS\MeuPrimeiroAppConsole\obj\Debug\net10.0\MeuPrimeiroAppConsole.csproj.CoreCompileInputs.cache
+C:\Users\uliss\Documents\git\ProjetoCS\MeuPrimeiroAppConsole\obj\Debug\net10.0\MeuPrimeiroAppConsole.dll
+C:\Users\uliss\Documents\git\ProjetoCS\MeuPrimeiroAppConsole\obj\Debug\net10.0\refint\MeuPrimeiroAppConsole.dll
+C:\Users\uliss\Documents\git\ProjetoCS\MeuPrimeiroAppConsole\obj\Debug\net10.0\MeuPrimeiroAppConsole.pdb
+C:\Users\uliss\Documents\git\ProjetoCS\MeuPrimeiroAppConsole\obj\Debug\net10.0\MeuPrimeiroAppConsole.genruntimeconfig.cache
+C:\Users\uliss\Documents\git\ProjetoCS\MeuPrimeiroAppConsole\obj\Debug\net10.0\ref\MeuPrimeiroAppConsole.dll
